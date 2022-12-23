@@ -1,0 +1,48 @@
+{
+    "ouvrage": {
+        "article": [
+            {
+                "@langue": "fran\u00c3\u00a7ais",
+                "@nbpage": "50",
+                "titre": "XML Facile",
+                "resume": "resunec'est un livre sympac",
+                "auteur": {
+                    "nom": "Truc",
+                    "prenom": "Mach in",
+                    "pays": "Utopia"
+                },
+                "section": {
+                    "paragraphe": "c'est un livre sympa"
+                }
+            },
+            {
+                "@langue": "fran\u00c3\u00a7ais",
+                "titre": "un titre",
+                "auteur": {
+                    "nom": "karim",
+                    "prenom": "khalid",
+                    "pays": "un pays"
+                },
+                "annee": "2021",
+                "section": {
+                    "paragraphe": "c'est un livre sympa"
+                }
+            }
+        ],
+        "rapport": {
+            "@langue": " Anglais",
+            "@nbpage": "23",
+            "titre": "Xrapport",
+            "auteur": {
+                "nom": "Xnom",
+                "prenom": "Xprenonc",
+                "pays": "Xpayse"
+            },
+            "chapitre": {
+                "section": {
+                    "paragraphe": "un texte quelconque"
+                }
+            }
+        }
+    }
+}

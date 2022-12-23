@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href ="xslt_exemple.xsl">-->
+<store> <!-- Root Element -->
+    <book id ="5350192956">
+        <bookname>XSLT Programmer's Reference</bookname> 
+        <authorname>Michael Kay</authorname>
+        <publisher>Wrox</publisher>
+        <price>$40</price> 
+        <edition>4th</edition>         
+    </book> 
+    <book id ="3741122298">
+        <bookname>Head First Java</bookname> 
+        <authorname>Kathy Sierra</authorname>
+        <publisher>O'reilly</publisher>
+        <price>$19</price> 
+        <edition>1st</edition>         
+    </book>
+    <book id ="9987436700">
+        <bookname>SQL The Complete Reference</bookname> 
+        <authorname>James R. Groff</authorname>
+        <publisher>McGraw-Hill</publisher>
+        <price>$45</price> 
+        <edition>3rd</edition>         
+    </book>
+</store>

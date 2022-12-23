@@ -1,0 +1,42 @@
+<!DOCTYPE ouvrage SYSTEM "ex2.dtd">
+<ouvrage>
+	<article langue="français" nbpage="50">
+		<titre>XML Facile</titre>
+		<resume>resunec'est un livre sympac</resume>
+		<auteur>
+			<nom>Truc</nom>
+			<prenom>Mach in</prenom>
+			<pays>Utopia</pays>
+		</auteur>
+		<section>
+			<paragraphe>c'est un livre sympa</paragraphe>
+		</section>
+	</article>
+	<rapport langue=" Anglais" nbpage="23">
+		<titre>Xrapport</titre>
+		<auteur>
+			<nom>Xnom</nom>
+			<prenom>Xprenonc</prenom>
+			<pays>Xpayse</pays>
+		</auteur>
+		<chapitre>
+			<section>
+				<paragraphe>un texte quelconque</paragraphe>
+			</section>
+		</chapitre>
+	</rapport>
+	<article langue="français" >
+		<titre>un titre</titre>
+		<auteur>
+			<nom>karim</nom>
+			<prenom>khalid</prenom>
+			<pays>un pays</pays>
+		</auteur>
+		<annee>2021</annee>
+		<section>
+			<paragraphe>c'est un livre sympa</paragraphe>
+		</section>
+	</article>
+</ouvrage>
+  
+  
