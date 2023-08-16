@@ -21,7 +21,7 @@ To install the application, follow these steps:
    
 Clone the repository:    
 ```
-git clone https://github.com/username/XML_Validator_Transformer.git  
+git clone https://github.com/abdellah-belcaid/XML_Validator_Transformer.git  
 ```
 Install the Python dependencies:    
 ```  
